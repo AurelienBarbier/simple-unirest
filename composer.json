@@ -1,0 +1,13 @@
+{
+    "name": "aurel/simple-unirest",
+    "description": "Simple UNIREST exemple",
+    "require": {
+        "mashape/unirest-php": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Aurel",
+            "email": "barbier.aurelien@gmail.com"
+        }
+    ]
+}
